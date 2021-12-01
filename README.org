@@ -1,0 +1,283 @@
+#+TITLE: Prensa Regional
+#+LANGUAGE: es
+#+OPTIONS: num:nil author:nil creator:nil
+#+STARTUP: content showstars indent inlineimages
+
+** Amazonas
+
+*** Sqala TV
++ homepage  :: https://www.sqala.tv/
++ facebook  :: https://www.facebook.com/sqalatv/
++ twitter   :: https://twitter.com/SqalaTV
++ instagram :: https://www.instagram.com/sqalatv/
+
+*** Radio Victoria Amazonas
++ homepage  :: http://www.radiovictoriachachapoyas.pe/
++ facebook  :: https://www.facebook.com/victoriaradioamazonas/
+
+*** Diario El Clarín Amazonas
++ homepage  :: https://clarinmedios.com.pe/
++ facebook  :: https://www.facebook.com/ElClarinAmazonas.pe/
++ twitter   :: https://twitter.com/clarin_amazonas
+
+*** Radio kumpanam
++ facebook  :: https://www.facebook.com/Radio-kumpanam-1041-f-m-102752515445778/
+
+*** Radio Reina de la Selva
++ twitter   :: https://twitter.com/reinadelaselva
++ homepage  :: https://reinadelaselva.pe/
+
+*** Chachapoyas Digital
++ facebook  :: https://www.facebook.com/chachapoyasdigital/
+
+*** Canal X TV
++ homepage  :: https://xtv.pe/
++ facebook  :: https://www.facebook.com/canalxtvperu/
+
+** Ancash
+** Apurimac
+** Arequipa
+
+*** YAKU Noticias
++ facebook  :: https://www.facebook.com/yakunoticias/
+
+*** Diario EP
++ homepage  :: https://diarioep.pe/
++ facebook  :: https://www.facebook.com/DiarioEP.pe
++ twitter   :: https://twitter.com/Diario_EP
++ instagram :: https://www.instagram.com/diarioep/
++ youtube   :: https://www.youtube.com/channel/UCcboAWAzMmeKBOuW5OKlvsA
+
+*** Mollendinos
++ homepage  :: https://mollendinos.com/
++ facebook  :: https://www.facebook.com/mollendoprensa/
++ twitter   :: https://twitter.com/mollendinos
++ instagram :: https://www.instagram.com/mollendinos/
++ youtube   :: https://www.youtube.com/channel/UCGvxlI1VbQqrhz_Vx8yDs6A
+
+*** Noticias Arequipa
++ homepage  :: https://noticiasarequipa.pe/
++ facebook  :: https://www.facebook.com/NoticiasArequipa.pe/
++ twitter   :: https://twitter.com/NoticiasAqpPE
+
+*** Prensa Regional
++ homepage  :: https://prensaregional.pe/
++ facebook  :: https://www.facebook.com/prensaregional/
++ twitter   :: https://twitter.com/prensaregional_
+
+*** Radio Yaraví
++ homepage  :: https://www.radioyaravi.org.pe/
++ facebook  :: https://www.facebook.com/YaraviArequipa/
++ twitter   :: https://twitter.com/RadioYaravi
+
+*** El Búho
++ homepage  :: https://elbuho.pe/
++ facebook  :: https://www.facebook.com/ElBuho.pe/
++ twitter   :: https://twitter.com/elbuho_pe
++ youtube   :: https://www.youtube.com/user/SemanarioElBuho
++ instagram :: https://www.instagram.com/elbuho.pe/
+
+** Ayacucho
+
+*** Estación Wari
++ homepage  :: https://www.wari.com.pe/
++ facebook  :: https://www.facebook.com/estacionwari95.3/
++ twitter   :: https://twitter.com/Estacion_Wari
+
+*** Diario Jornada
+
++ homepage  :: https://www.jornada.com.pe/
++ facebook  :: https://www.facebook.com/diariojornada/
++ twitter   :: https://twitter.com/diariojornada
++ youtube   :: https://www.youtube.com/channel/UCm6vfK6YyTaTnJ56DhLFDdA
++ instagram :: https://www.instagram.com/diariojornadaayac/
+
+** Cajamarca
+*** Radio Marañón
++ homepage  :: https://radiomaranon.org.pe/
++ twitter   :: https://twitter.com/radiomaranon
++ facebook  :: https://www.facebook.com/radiomaranon/
+
+*** Cajamarca Viral
++ homepage  :: https://www.cajamarcaviral.pe/
++ facebook  :: https://www.facebook.com/cajamarcaviral/
++ twitter   :: https://twitter.com/cajamarcaviral
+
+*** Radio Campesina
++ facebook  :: https://www.facebook.com/radiocampesinanoticias/
++ twitter   :: https://twitter.com/campesina_radio
++ instagram :: https://www.instagram.com/radiocampesina.pe/
+
+*** Jaén Noticias
++ homepage  :: https://hoyperutv.com/
++ facebook  :: https://www.facebook.com/JaenNoticiasTeInforma/
++ twitter   :: https://twitter.com/HOYPERU_TV
++ youtube   :: https://www.youtube.com/channel/UCTD2a8kwDmvQUU_t7pTaMMQ
+
+*** Diario El Cumbe
++ facebook  :: https://www.facebook.com/DiarioElCumbeOficial/
++ twitter   :: https://twitter.com/DiarioElCumbe
+
+** Callao
+*** Ventanilla TV
++ facebook  :: https://www.facebook.com/ventanillatv/
+
+*** Callao TV
++ facebook  :: https://es-la.facebook.com/ElCallaoTv/
+
+** Cusco
+
+*** Cusco Noticias
++ homepage  :: https://www.cuscopost.com/
++ facebook  :: https://www.facebook.com/CuscoPost
++ twitter   :: https://twitter.com/cuscopost
+
+*** Diario El Sol Cusco
++ homepage  :: https://diarioelsolcusco.pe/
++ facebook  :: https://www.facebook.com/diarioelsolcusco.pe/
++ twitter   :: https://twitter.com/DiarioElSol
+
+** Huancavelica
+** Huánuco
+*** Diario Página3
++ homepage  :: https://pagina3.pe/
++ facebook  :: https://www.facebook.com/diariopagina3huanuco/
++ twitter   :: https://twitter.com/pagina3huanuco
++ instagram :: https://www.instagram.com/diariopagina3/
+
+** Ica
+
+*** Chincha Noticias
++ homepage  :: http://www.chinchanoticias.com/
++ facebook  :: https://www.facebook.com/Chincha.Noticias/
+
+*** Radio Satelite
++ homepage  :: http://www.radiosatelitechincha.com/
++ facebook  :: https://www.facebook.com/Radio.Satelite.Chincha/
+
+** Junín
+** La Libertad
+*** Trujillo Informa
++ homepage  :: https://trujilloinforma.com/
++ facebook  :: https://www.facebook.com/trujilloinforma/
++ twitter   :: https://twitter.com/TrujilloInforma
+
+** Lambayeque
+
+*** Mochumí TV
++ homepage  :: https://www.mochumitv.com.pe/
++ facebook  :: https://www.facebook.com/mochumiteve/
++ twitter   :: https://twitter.com/mochumitv/
++ instagram :: https://www.instagram.com/mochumitv/
+
+** Lima
+
+*** Punto Informativo Huacho
++ facebook  :: https://www.facebook.com/puntoinformativohuacho/
++ twitter   :: https://twitter.com/HuachoPunto
+
+** Loreto
+** Madre de Dios
+** Moquegua
+** Pasco
+** Piura
+
+*** cutivalu
++ homepage  :: https://www.cutivalu.pe/
++ facebook  :: https://www.facebook.com/cutivalupiura/
++ twitter   :: https://twitter.com/Cutivalu
++ instagram :: https://www.instagram.com/cutivalu/
+
+*** Diario El Regional
++ homepage  :: https://elregionalpiura.com.pe/
++ facebook  :: https://www.facebook.com/ElRegionaldePiura/
++ twitter   :: https://twitter.com/elregionalpiura
+
+*** Noticias Piura 3.0
++ homepage  :: https://noticiaspiura30.pe/
++ facebook  :: https://www.facebook.com/noticiaspiura30/
++ twitter   :: https://twitter.com/noticiaspiura30
++ instagram :: https://www.instagram.com/noticiaspiura30/
++ youtube   :: https://www.youtube.com/channel/UCT55iDytC5yFMGwujLBWnlQ
+
+*** Diario La Hora
++ homepage  :: https://lahora.pe/
++ facebook  :: https://www.facebook.com/lahoradepiura/
++ twitter   :: https://twitter.com/lahoradepiura
+
+*** Walac Noticias
++ homepage  :: https://walac.pe/
++ facebook  :: https://www.facebook.com/WalacNoticias/
++ twitter   :: https://twitter.com/WalacNoticias
++ instagram :: https://www.instagram.com/walacnoticias/
+
+** Puno
+
+*** Pachamama Radio
++ homepage  :: https://www.pachamamaradio.org/
++ facebook  :: https://www.facebook.com/radiopachamama/
++ twitter   :: https://twitter.com/PachamamaRadio
++ youtube   :: https://www.youtube.com/c/PachamamaRadioPuno
++ instagram :: https://www.instagram.com/pachamamaradio/
+
+*** Radio Onda Azul
++ homepage  :: https://radioondaazul.com/
++ facebook  :: https://www.facebook.com/OndaAzulPuno/
++ twitter   :: https://twitter.com/ROApuno
++ youtube   :: https://www.youtube.com/channel/UClbW9zqy05ATZ7RqnDYbwjg
+
+** San Martín
+
+*** Radio Tropical
++ homepage  :: https://radiotropical.pe/
++ facebook  :: https://www.facebook.com/radiotropical.pe/
++ twitter   :: https://twitter.com/RadioTropical_
++ instagram :: https://www.instagram.com/radiotropical_/
+
+*** Radio Kampagkis
++ facebook  :: https://www.facebook.com/Radiokampagkis/
++ youtube   :: https://www.youtube.com/channel/UCCmh6IvKeLU77l9nbq926OA
++ twitter   :: https://twitter.com/radiokampagkis
+
+*** Diario Ahora
++ homepage  :: https://www.diarioahora.pe/
++ facebook  :: https://www.facebook.com/DiarioAhora/
+
+*** Radio La Grande
++ facebook  :: https://www.facebook.com/sapino1974/
+
+*** Diario Amanecer
++ facebook  :: https://www.facebook.com/amanecersanmartin/
+
+** Tacna
+
+*** Radio Uno
++ homepage  :: http://radiouno.pe/
++ facebook  :: https://www.facebook.com/radiouno.pe
++ twitter   :: https://twitter.com/radiouno_pe
++ instagram :: https://www.instagram.com/radiouno/
++ youtube   :: https://www.youtube.com/channel/UCK0lpuL9PQb3I5CDcu7Y7bA
+
+*** Diario Sin Fronteras
++ homepage  :: https://diariosinfronteras.com.pe/
++ faceboo   :: https://www.facebook.com/diariosinfronteras/
++ twitter   :: https://twitter.com/Diario_SF
+
+*** Radio RCC Tacna
++ homepage  :: https://www.rcctacna.com/
++ facebook  :: https://www.facebook.com/RadioRCC99.3fmTacna
++ twitter   :: https://twitter.com/RccTacna
++ instagram :: https://www.instagram.com/radiorcctacna/
++ youtube   :: https://www.youtube.com/channel/UCQ8c24ve716vAhlZtJ8TTEg
+
+** Tumbes
+** Ucayali
+*** Diario Impetu
++ homepage  :: https://impetu.pe/
++ facebook  :: https://www.facebook.com/impetudiario/
++ twitter   :: https://twitter.com/diarioimpetu
+
+*** Gaceta Ucayalina
++ homepage  :: https://www.gacetaucayalina.com/
++ facebook  :: https://www.facebook.com/GacetaUcayalina/
++ twitter   :: https://twitter.com/GacetaUcayalina
