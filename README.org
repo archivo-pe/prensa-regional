@@ -35,7 +35,19 @@
 + facebook  :: https://www.facebook.com/canalxtvperu/
 
 ** Ancash
+
+*** Radio RSD Chimbote
++ homepage  :: https://radiorsd.pe/
++ facebook  :: https://www.facebook.com/radiorsd.pe/
++ twitter   :: https://twitter.com/RSD_CHIMBOTE
++ youtube   :: https://www.youtube.com/channel/UCsIFzJ_PsKaq3yuffTNEGTw
++ instagram :: https://www.instagram.com/radio.rsd.chimbote/
+
 ** Apurimac
+*** Radio Andahuaylas
++ homepage  :: https://andahuaylasradio.com/
++ facebook  :: https://www.facebook.com/radioandahuaylas
++ instagram :: https://www.instagram.com/radio.andahuaylas/
 ** Arequipa
 
 *** YAKU Noticias
@@ -76,6 +88,19 @@
 + twitter   :: https://twitter.com/elbuho_pe
 + youtube   :: https://www.youtube.com/user/SemanarioElBuho
 + instagram :: https://www.instagram.com/elbuho.pe/
+
+*** Radio San Martín
++ homepage  :: https://radiosanmartin.pe/
++ facebook  :: https://www.facebook.com/RadioSanMartin977Fm/
++ twitter   :: https://twitter.com/SanMartinAQP
++ youtube   :: https://www.youtube.com/channel/UCbw1GV1WEnfR5lZvQJ0L3mw
+
+*** HBA Noticias
++ homepage  :: https://www.hbanoticias.pe/
++ facebook  :: https://www.facebook.com/HBAnoticias/
++ twitter   :: https://twitter.com/HBANoticiasaqp
++ youtube   :: https://www.youtube.com/user/HBANOTICIAS
++ instagram :: https://www.instagram.com/hbanoticias_peru/
 
 ** Ayacucho
 
@@ -137,7 +162,18 @@
 + facebook  :: https://www.facebook.com/diarioelsolcusco.pe/
 + twitter   :: https://twitter.com/DiarioElSol
 
+*** Radio Quillabamba
++ homepage  :: https://www.radioquillabamba.com/
++ facebook  :: https://www.facebook.com/radioquillabamba/
++ twitter   :: https://twitter.com/Rq_Radio
++ youtube   :: https://www.youtube.com/channel/UCpffaQaiyKwKk24jUZzrBRg
+
 ** Huancavelica
+
+*** Radio Anqara
++ homepage  :: http://www.radioanqara.com/
++ facebook  :: https://www.facebook.com/HUANCAVELICA.RADIOANQARA/
+
 ** Huánuco
 *** Diario Página3
 + homepage  :: https://pagina3.pe/
@@ -178,6 +214,11 @@
 
 ** Loreto
 ** Madre de Dios
+*** Radio Madre de Dios
++ homepage  :: https://noticias.madrededios.com/
++ facebook  :: https://www.facebook.com/radiomadrededios/
++ twitter   :: https://twitter.com/rmadrededios
+
 ** Moquegua
 ** Pasco
 ** Piura
@@ -210,6 +251,12 @@
 + facebook  :: https://www.facebook.com/WalacNoticias/
 + twitter   :: https://twitter.com/WalacNoticias
 + instagram :: https://www.instagram.com/walacnoticias/
+
+*** El Piurano
++ homepage  :: https://www.elpiurano.pe/
++ facebook  :: https://www.facebook.com/elpiuranope
++ twitter   :: https://twitter.com/elpiuranope
++ instagram :: https://www.instagram.com/elpiuranope/
 
 ** Puno
 
@@ -260,7 +307,7 @@
 
 *** Diario Sin Fronteras
 + homepage  :: https://diariosinfronteras.com.pe/
-+ faceboo   :: https://www.facebook.com/diariosinfronteras/
++ facebook  :: https://www.facebook.com/diariosinfronteras/
 + twitter   :: https://twitter.com/Diario_SF
 
 *** Radio RCC Tacna
