@@ -34,6 +34,12 @@
 + homepage  :: https://xtv.pe/
 + facebook  :: https://www.facebook.com/canalxtvperu/
 
+*** Stereo AW
++ facebook  :: https://www.facebook.com/RadioStereoAW106.1UnicaComoTu/
+
+*** Diario Ahora
++ facebook  :: https://www.facebook.com/amazonasyjaen/
+
 ** Ancash
 
 *** Radio RSD Chimbote
@@ -198,6 +204,23 @@
 + twitter   :: https://twitter.com/pagina3huanuco
 + instagram :: https://www.instagram.com/diariopagina3/
 
+*** Tu Diario Huanuco
++ homepage  :: https://tudiariohuanuco.pe/
++ facebook  :: https://www.facebook.com/TuDiarioHuanuco/
++ twitter   :: https://twitter.com/tudiariohuanuco
++ instagram :: https://www.instagram.com/tudiariohco/
+
+*** Diario Ahora
++ homepage  :: https://www.ahora.com.pe/
++ facebook  :: https://www.facebook.com/diario.ahora.1
++ twitter   :: https://twitter.com/DiarioAhoraHco
++ youtube   :: https://www.youtube.com/channel/UCV8bRVPXIAmQtboCrwl3F5Q
++ instagram :: https://www.instagram.com/diarioahora/
+
+*** Diario El Siglo
++ homepage  :: http://diarioelsiglo.com/
++ facebook  :: https://www.facebook.com/diarioelsiglo/
+
 ** Ica
 
 *** Chincha Noticias
@@ -216,6 +239,37 @@
 - instagram :: https://www.instagram.com/lalupa_pe/
 
 ** Junín
+
+*** Infoandes
++ homepage  :: https://infoandes.pe/
++ facebook  :: https://www.facebook.com/Infoandes/
++ twitter   :: https://twitter.com/InfoAndes2
+
+*** Huanca York Times
++ homepage  :: https://hytimes.pe/
++ facebook  :: https://www.facebook.com/hytimes.pe/
++ twitter   :: https://twitter.com/HuancaYorkTimes
++ instagram :: https://www.instagram.com/huanca.york.times/
++ youtube   :: https://www.youtube.com/channel/UCFwCub3ohLK70jjDK44S5lQ
+
+*** Diario Primicia
++ homepage  :: https://diarioprimiciahyo.blogspot.com/
++ facebook  :: https://www.facebook.com/diarioprimiciahyo
++ twitter   :: https://twitter.com/Diario_Primicia
+
+*** Diario 7 Días
++ homepage  :: https://7dias.pe/
++ facebook  :: https://www.facebook.com/diario7dias/
++ twitter   :: https://twitter.com/diario7dias
++ youtube   :: https://www.youtube.com/channel/UCKpGs6xWtT5ABuBOfg5nafw
+
+*** Picantito
++ facebook  :: https://www.facebook.com/Picantito-112472767170498/
+
+*** Radio Tarma
++ homepage  :: https://www.radiotarma.com/
++ facebook  :: https://www.facebook.com/Radio-Tarma-590296751120648/
+
 ** La Libertad
 *** Trujillo Informa
 + homepage  :: https://trujilloinforma.com/
@@ -265,6 +319,15 @@
 
 ** Moquegua
 ** Pasco
+
+*** Pasco libre
++ homepage  :: http://www.pascolibre.com/
++ facebook  :: https://www.facebook.com/Pascolibrecom-100705152484422/
+
+*** Agenda Pasco
++ homepage  :: https://agendapasco.com/
++ facebook  :: https://www.facebook.com/AgendaPasco/
+
 ** Piura
 
 *** cutivalu
@@ -362,6 +425,15 @@
 + youtube   :: https://www.youtube.com/channel/UCQ8c24ve716vAhlZtJ8TTEg
 
 ** Tumbes
+
+*** Diario Tumbes 21
++ facebook  :: https://www.facebook.com/Tumbes21Oficial/
++ twitter   :: https://twitter.com/TUMBES21
+
+*** Radio Antena 10
++ homepage  :: https://radioantena10tumbes.com/
++ facebook  :: https://www.facebook.com/RadioAntena10Tumbes/
+
 ** Ucayali
 *** Diario Impetu
 + homepage  :: https://impetu.pe/
