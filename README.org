@@ -1,8 +1,9 @@
-#+TITLE: Prensa Regional
+#+TITLE: Prensa Regional del Perú
 #+LANGUAGE: es
-#+OPTIONS: num:nil author:nil creator:nil
+#+OPTIONS: toc:2 author:nil creator:nil
 #+STARTUP: content showstars indent inlineimages
 
+* Prensa Regional
 ** Amazonas
 
 *** Sqala TV
@@ -24,8 +25,10 @@
 + facebook  :: https://www.facebook.com/Radio-kumpanam-1041-f-m-102752515445778/
 
 *** Radio Reina de la Selva
-+ twitter   :: https://twitter.com/reinadelaselva
 + homepage  :: https://reinadelaselva.pe/
++ facebook  :: https://www.facebook.com/radioreinadelaselva/
++ twitter   :: https://twitter.com/reinadelaselva
++ instagram :: https://www.instagram.com/radioreinadelaselva/
 
 *** Chachapoyas Digital
 + facebook  :: https://www.facebook.com/chachapoyasdigital/
@@ -67,10 +70,31 @@
 + instagram :: https://www.instagram.com/ancashnoticias/
 
 ** Apurimac
+*** Diario Expresión
++ homepage  :: https://www.diarioexpresion.pe/
++ facebook  :: https://www.facebook.com/expresionapurimac
++ twitter   :: https://twitter.com/EXPRESIONDIARIO
++ youtube   :: https://www.youtube.com/channel/UC_hyYFxrg3PpaqmqWHcYIAA
+
 *** Radio Andahuaylas
 + homepage  :: https://andahuaylasradio.com/
 + facebook  :: https://www.facebook.com/radioandahuaylas
 + instagram :: https://www.instagram.com/radio.andahuaylas/
+
+*** Noticiero Cotabambas
++ facebook  :: https://www.facebook.com/noticierocotabambas
+
+*** Radio y TV Mallmanya
++ homepage  :: https://radiotvmallmanya.blogspot.com/
++ facebook  :: https://www.facebook.com/Radiotvmallmanya950Am/
++ youtube   :: https://www.youtube.com/channel/UC3X16DqOZcuTBZ6RdWxnU7g
+
+*** ATM Television Apurimeña
++ facebook  :: https://www.facebook.com/ATMTelevisionApurimac
++ twitter   :: https://twitter.com/ATMTelevisionA1
++ youtube   :: https://www.youtube.com/channel/UCi9gHNDfc9Kf_ODrinQeV4A
++ instagram :: https://www.instagram.com/atmtelevisionapurimena/
+
 ** Arequipa
 
 *** YAKU Noticias
@@ -125,6 +149,10 @@
 + youtube   :: https://www.youtube.com/user/HBANOTICIAS
 + instagram :: https://www.instagram.com/hbanoticias_peru/
 
+*** Radio Victoria
++ homepage  :: https://radiovictoriaaqp.com/
++ facebook  :: https://www.facebook.com/RadioVictoriaAQP/
+
 ** Ayacucho
 
 *** Estación Wari
@@ -167,11 +195,33 @@
 + twitter   :: https://twitter.com/DiarioElCumbe
 
 ** Callao
+*** La Rana
++ homepage  :: https://www.larana.pe/
++ facebook  :: https://www.facebook.com/laranapec/
++ twitter   :: https://twitter.com/laranape
+
 *** Ventanilla TV
 + facebook  :: https://www.facebook.com/ventanillatv/
 
 *** Callao TV
 + facebook  :: https://es-la.facebook.com/ElCallaoTv/
+
+*** Prensa Chalaca
++ homepage  :: https://prensachalaca.com/
++ facebook  :: https://www.facebook.com/prensachalaca/
++ twitter   :: https://twitter.com/prensachalaca
++ youtube   :: https://www.youtube.com/c/PRENSACHALACATV
++ instagram :: https://www.instagram.com/prensachalaca/
+
+*** Prensa La Eskina
++ homepage  :: http://prensalaeskina.pe/
++ facebook  :: https://www.facebook.com/PrensaLaEskina/
++ twitter   :: https://twitter.com/PrensaLaEskina
++ youtube   :: https://www.youtube.com/user/laeskinatv
+
+*** Region TV
++ homepage  :: https://regionteve.com/
++ facebook  :: https://www.facebook.com/regiontv/
 
 ** Cusco
 
@@ -196,6 +246,14 @@
 *** Radio Anqara
 + homepage  :: http://www.radioanqara.com/
 + facebook  :: https://www.facebook.com/HUANCAVELICA.RADIOANQARA/
+
+*** Los Ojos de Huancavelica
++ facebook  :: https://www.facebook.com/OJOSDEHUANCAVELICA
++ youtube   :: https://www.youtube.com/c/HUANCAVELICANOTICIAS
+
+*** Radio Taki
++ homepage  :: https://radiotaki.com/
++ facebook  :: https://www.facebook.com/RadioTakiPeru/
 
 ** Huánuco
 *** Diario Página3
@@ -311,6 +369,18 @@
 + twitter   :: https://twitter.com/HuachoPunto
 
 ** Loreto
+
+*** Pro y Contra
++ homepage  :: https://proycontra.com.pe/
++ facebook  :: https://www.facebook.com/ProyContraAmazonia/
++ twitter   :: https://twitter.com/proycontra
++ youtube   :: https://www.youtube.com/user/proycontravideo
++ instagram :: https://www.instagram.com/proycontraiquitos/
+
+*** Diario La Región
++ homepage  :: https://diariolaregion.com/web/
++ facebook  :: https://www.facebook.com/LaRegionIquitos
+
 ** Madre de Dios
 *** Radio Madre de Dios
 + homepage  :: https://noticias.madrededios.com/
@@ -318,6 +388,10 @@
 + twitter   :: https://twitter.com/rmadrededios
 
 ** Moquegua
+
+*** Radio Sol
++ homepage  :: http://www.radiosol.com.pe/
++ facebook  :: https://www.facebook.com/RadioSol945FM-255013648293741
 ** Pasco
 
 *** Pasco libre
@@ -380,6 +454,25 @@
 + twitter   :: https://twitter.com/ROApuno
 + youtube   :: https://www.youtube.com/channel/UClbW9zqy05ATZ7RqnDYbwjg
 
+*** La Decana
++ homepage  :: https://ladecana.pe/
++ facebook  :: https://www.facebook.com/ladecanaradio/
++ twitter   :: https://twitter.com/DecanaNoticias
+
+*** Radio Los Andes
++ homepage  :: https://www.losandes.com.pe/
++ facebook  :: https://www.facebook.com/people/Diario-Los-Andes/100063907605674/
++ youtube   :: https://www.youtube.com/channel/UCmnP2iWhzbtXyR7WzWaZGYw
+
+*** Radio Allinccapac
++ homepage  :: http://radioallinccapac.com/
++ facebook  :: https://www.facebook.com/radioallinccapacRVA/
++ twitter   :: https://twitter.com/Allinccapac_RVA
+
+*** El Objetivo
++ homepage  :: https://www.elobjetivo.pe/
++ facebook  :: https://www.facebook.com/ElObjetivoPe/
+
 ** San Martín
 
 *** Radio Tropical
@@ -423,6 +516,12 @@
 + twitter   :: https://twitter.com/RccTacna
 + instagram :: https://www.instagram.com/radiorcctacna/
 + youtube   :: https://www.youtube.com/channel/UCQ8c24ve716vAhlZtJ8TTEg
+
+*** Radio Caplina Tacna
++ facebook  :: https://www.facebook.com/radiocaplinatacna/
+
+*** Último Minuto Tacna
++ facebook  :: https://www.facebook.com/ultimominutotacna/
 
 ** Tumbes
 
