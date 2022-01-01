@@ -43,6 +43,23 @@
 + youtube   :: https://www.youtube.com/channel/UCsIFzJ_PsKaq3yuffTNEGTw
 + instagram :: https://www.instagram.com/radio.rsd.chimbote/
 
+*** Chimbote en Linea
++ homepage  :: http://www.chimbotenlinea.com/
++ facebook  :: https://www.facebook.com/chimbotenlinea
++ twitter   :: https://twitter.com/chimbotenlinea
+
+*** Ancash al Dia
++ homepage  :: https://ancashaldia.com/
++ facebook  :: https://www.facebook.com/ancashaldia
++ twitter   :: https://twitter.com/Ancashaldia
+
+*** Ancash Noticias
++ homepage  :: https://www.ancashnoticias.com/
++ facebook  :: https://www.facebook.com/noticiasdeancash
++ twitter   :: https://twitter.com/ancash_noticias
++ youtube   :: https://www.youtube.com/user/ANCASHNOTICIAS
++ instagram :: https://www.instagram.com/ancashnoticias/
+
 ** Apurimac
 *** Radio Andahuaylas
 + homepage  :: https://andahuaylasradio.com/
@@ -191,12 +208,39 @@
 + homepage  :: http://www.radiosatelitechincha.com/
 + facebook  :: https://www.facebook.com/Radio.Satelite.Chincha/
 
+*** La Lupa
+- homepage  :: https://lalupa.pe/
+- facebook  :: https://www.facebook.com/lalupa.pe/
+- twitter   :: https://twitter.com/lalupa_pe
+- youtube   :: https://www.youtube.com/lalupavideos
+- instagram :: https://www.instagram.com/lalupa_pe/
+
 ** Junín
 ** La Libertad
 *** Trujillo Informa
 + homepage  :: https://trujilloinforma.com/
 + facebook  :: https://www.facebook.com/trujilloinforma/
 + twitter   :: https://twitter.com/TrujilloInforma
+
+*** La Industria
++ homepage  :: http://laindustria.pe/
++ facebook  :: https://www.facebook.com/LaIndustria.pe
++ twitter   :: https://twitter.com/weblaindustria
++ instagram :: https://www.instagram.com/laindustria.pe/
+
+*** Trujillo en Linea
++ homepage  :: http://www.trujilloenlinea.pe/
++ facebook  :: https://www.facebook.com/Trujilloenlinea.pe
++ twitter   :: https://twitter.com/Trujenlineape
+
+*** Trujillo 60
++ homepage  :: https://n60.pe/
++ facebook  :: https://www.facebook.com/Trujillo60/
++ twitter   :: https://twitter.com/N60Noticias
+
+*** Con Memoria Periodistas
++ homepage  :: https://www.conmemoria.pe/
++ facebook  :: https://www.facebook.com/ConMemoriaPeriodistas
 
 ** Lambayeque
 
